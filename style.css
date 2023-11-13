@@ -175,7 +175,7 @@
 	cursor: pointer;
 }
 .menu-content-active {
-	background:url(../img/btn-on.png) no-repeat center center;
+	background:url(https://iili.io/JC7Qa5u.png) no-repeat center center;
 	background-size:100% 100%;
 }
 .scroll {
@@ -209,7 +209,7 @@
     height: 100%;
 }
 .item button {
-	background:url(../img/btn-on.png) no-repeat center center;
+	background:url(https://iili.io/JC7Qa5u.png) no-repeat center center;
 	background-size:110% 100%;
 	width:100%;
 	height:auto;
@@ -231,7 +231,7 @@
 	margin-left: 0;
 }
 .footer {
-	background: #19191b url(https://i.postimg.cc/DZYQm0Gm/footer-bg.jpg) top center / 100% no-repeat;
+	background: #19191b url(https://iili.io/JCY96b9.jpg) top center / 100% no-repeat;
 	background-position-y: calc(20 / 640 * 100vw);
 	width: 100%;
 	height: auto;
@@ -333,7 +333,7 @@
 	color:#fff;
 }
 .popup-box-navbar {
-	background:url(../img/popup-navbar.png) no-repeat center center;
+	background:url(https://iili.io/JCYHTss.png) no-repeat center center;
 	background-size:100% 100%;
 	height: auto;
 	padding-bottom: 5px;
@@ -355,7 +355,7 @@
 	text-align: left;
 }
 .popup-box-bg {
-	background:url(../img/popup-box-bg.png) no-repeat center center;
+	background:url(https://iili.io/JCYHa72.png) no-repeat center center;
 	background-size:100% 100%;
 	width: 100%;
 	margin-top: -10px;
@@ -412,7 +412,7 @@
 	display: block;
 }
 .popup-box-form input {
-	background: url(../img/verify.png) no-repeat center;
+	background: url(https://iili.io/JCYH1I9.png) no-repeat center;
 	background-size: 110% 110%;
 	width: 100%;
 	height: auto;
@@ -433,7 +433,7 @@
 	color: #222222;
 }
 .popup-box-form select {
-	background: url(../img/verify.png) no-repeat center;
+	background: url(https://iili.io/JCYH1I9.png) no-repeat center;
 	background-color: #529BA1;
 	background-size: 110% 110%;
 	width: 100%;
@@ -453,13 +453,13 @@
     -moz-appearance: none;
 }
 .popup-box-footer {
-	background:url(../img/popup-footer.png) no-repeat center center;
+	background:url(https://iili.io/JCYHvhF.png) no-repeat center center;
 	background-size:100% 100%;
 	width: 100%;
 	height: 45px;
 }
 .popup-box-footer button {
-	background: url(../img/menu-on.png) no-repeat center;
+	background: url(https://i.ibb.co/Lg69Dkb/menu-on.png) no-repeat center;
 	background-size: 100% 100%;
 	width: auto;
 	height: auto;
@@ -476,14 +476,14 @@
 	outline: none;
 }
 .popup-box-form-footer {
-	background:url(../img/popup-footer.png) no-repeat center center;
+	background:url(https://iili.io/JCYHvhF.png) no-repeat center center;
 	background-size:100% 100%;
 	width: 100%;
 	height: 45px;
 	margin-top: -17px;
 }
 .popup-box-form-footer button {
-	background: url(../img/menu-on.png) no-repeat center;
+	background: url(https://i.ibb.co/Lg69Dkb/menu-on.png) no-repeat center;
 	background-size: 100% 100%;
 	width: auto;
 	height: auto;
